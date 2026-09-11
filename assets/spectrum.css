@@ -1,0 +1,21 @@
+:root{
+  --c-hydr8:#4ECCB1;
+  --c-hydr8-deep:#206B5B;
+  --c-immuneboost:#F27400;
+  --c-immuneboost-deep:#6B3300;
+  --c-glowup:#CC684E;
+  --c-glowup-deep:#6B3020;
+  --c-energyboost:#D78B03;
+  --c-energyboost-deep:#6B4501;
+  --c-athletix:#1ACACC;
+  --c-athletix-deep:#0D6A6B;
+  --c-hangover:#73CC4E;
+  --c-hangover-deep:#376B20;
+  --c-coldbuster:#4EA4CC;
+  --c-coldbuster-deep:#20546B;
+  --c-jetset:#19CCC1;
+  --c-jetset-deep:#0D6B65;
+  --c-slimdrip:#77CC17;
+  --c-slimdrip-deep:#3E6B0C;
+  --spectrum: #4ECCB1, #F27400, #CC684E, #D78B03, #1ACACC, #73CC4E, #4EA4CC, #19CCC1, #77CC17;
+}

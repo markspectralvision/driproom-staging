@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 210" role="img" aria-label="Drip Room by Parie Med Spa">
+  <title>Drip Room by Parie Med Spa</title>
+  <style>
+    .dr-name{font-family:'DM Serif Display',Georgia,'Times New Roman',serif;font-size:92px;letter-spacing:-1.1px;fill:#231A12}
+    .dr-endo{font-family:'Manrope',system-ui,sans-serif;font-size:15px;font-weight:600;letter-spacing:4.5px;fill:#8C7A66}
+    @media (prefers-color-scheme:dark){.dr-name{fill:#FCFAF6}.dr-endo{fill:#C9A671}}
+  </style>
+  <text class="dr-name" x="410" y="96" text-anchor="middle">Drip Room</text>
+  <line x1="355" y1="130" x2="465" y2="130" stroke="#A87E45" stroke-width="1"/>
+  <text class="dr-endo" x="412" y="166" text-anchor="middle">BY PARIE MED SPA</text>
+</svg>
